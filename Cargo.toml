@@ -1,0 +1,27 @@
+[package]
+name = "nxerase"
+version = "1.8.1"
+edition = "2024"
+description = "NXErase: Forensic-resistant secure deletion tool for SSDs/NVMe"
+authors = ["NXErase Team"]
+license = "Apache-2.0"
+
+[dependencies]
+anyhow = "1.0"
+chrono = "0.4"
+clap = { version = "4.4", features = ["derive"] }
+crossbeam-channel = "0.5"
+ctrlc = "3.4"
+indicatif = "0.17"
+libc = "0.2"
+# FIX: Removed "fcntl" (it is now part of "fs")
+nix = { version = "0.27", features = ["fs", "user", "ioctl"] }
+num_cpus = "1.0"
+rand = "0.8"
+rayon = "1.8"
+walkdir = "2.4"
+
+[profile.release]
+lto = true
+strip = true
+codegen-units = 1
